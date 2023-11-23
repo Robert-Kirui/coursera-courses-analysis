@@ -1,13 +1,13 @@
 ## Coursera Courses Analysis
 
 ### Table of Contents
-- [Overview](Overview)
-- [Data source](Data-source)
-- [Tools](Tools)
-- [Data Cleaning and Preparation](Data-Cleaning-and-Preparation)
-- [Data Analysis](Data-Analysis)
-- [Findings](Findings)
-- [Recommendations](Recommendations)
+- [Overview](#Overview)
+- [Data source](#Data-source)
+- [Tools](#Tools)
+- [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+- [Data Analysis](#Data-Analysis)
+- [Findings](#Findings)
+- [Recommendations](#Recommendations)
 - [Limitations](#Limitations)
 
 ###  Overview 
