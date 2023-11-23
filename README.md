@@ -117,6 +117,8 @@ ORDER BY Total_in_Number DESC;
 
 
 ### Recommendations 
+- Organizations should publish more courses with longer durations (1 - 3 months and 3 - 6 months) and should focus more on beginner level courses.
+- Organizations should publish more courses and specializations and less professional certificates and guided projects.
 
 
 ### Limitations 
