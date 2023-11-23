@@ -8,7 +8,7 @@
 - [Data Analysis](Data-Analysis)
 - [Findings](Findings)
 - [Recommendations](Recommendations)
-- [Limitations](Limitations)
+- [Limitations](#Limitations)
 
 ###  Overview 
 The purpose of the analysis is to gain insights into the most popular courses offered on Coursera, the most popular organizations, and the distribution of students and courses across certificate types, course levels, and course durations.
