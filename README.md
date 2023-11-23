@@ -1,4 +1,5 @@
 ## Coursera Courses Analysis
+---
 
 ### Table of Contents
 - [Overview](#Overview)
@@ -20,6 +21,7 @@ The purpose of the analysis is to gain insights into the most popular courses of
 ### Data source 
 The dataset was obtained from Kaggle and can be downloaded [here](https://www.kaggle.com/datasets/tianyimasf/coursera-course-dataset)
 The dataset contains 1,000 records of courses offered by various organizations across different fields. Each record in the dataset contains course title, organization, course duration, certificate type, course level (beginner, intermediate, advanced, or mixed), skills, number of students enrolled, number of reviews, course rating, and URL. 
+
 ### Tools
 - MS Excel
 - MS SQL Server
