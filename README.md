@@ -13,6 +13,10 @@
 ###  Overview 
 The purpose of the analysis is to gain insights into the most popular courses offered on Coursera, the most popular organizations, and the distribution of students and courses across certificate types, course levels, and course durations.
 
+![overview1](https://github.com/Robert-Kirui/coursera-courses-analysis/assets/151769501/605376b0-ba41-4a9c-a35d-45f9499cd886)
+![overview2](https://github.com/Robert-Kirui/coursera-courses-analysis/assets/151769501/f0ab0617-283b-4ad0-96b3-3343e2c3284c)
+
+
 ### Data source 
 The dataset was obtained from Kaggle and can be downloaded [here](https://www.kaggle.com/datasets/tianyimasf/coursera-course-dataset)
 The dataset contains 1,000 records of courses offered by various organizations across different fields. Each record in the dataset contains course title, organization, course duration, certificate type, course level (beginner, intermediate, advanced, or mixed), skills, number of students enrolled, number of reviews, course rating, and URL. 
