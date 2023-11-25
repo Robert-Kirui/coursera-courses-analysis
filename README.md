@@ -42,7 +42,7 @@ The dataset contains 1,000 records of courses offered by various organizations a
   - Course titles, organizations names, and column names.
 
 ### Data Analysis 
-The analysis seeks to answer the following key questions, among others: 
+The analysis sought to answer the following key questions, among others: 
 1. What are the most popular courses based on the number of students enrolled?
 2. What are the most popular organizations?
 3. Which certificate types (Courses, Specializations, Professional Certificates, and Guided Projects) are the most in-demand?
