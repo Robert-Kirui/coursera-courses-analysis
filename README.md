@@ -34,7 +34,8 @@ The dataset contains 1,000 records of courses offered by various organizations a
   - Number of students enrolled – Missing values in 36 rows, a significant number. All rows kept.
   - Course skills - Missing values in 355 rows. All rows kept.
 
-- Duplicate values: Since we're looking at different courses offered by different institutions, both the course_title and organization columns can be combined to form a primary key. A course title alone cannot uniquely identify a course because many organizations can use the same title for their courses. However, the same course title offered by the same organization is considered duplicate in this case. For example, a course titled “Business Analytics” offered by the University of Pennsylvania is different another course with same title offered by University of Illinois at Urbana-Champaign. However, two courses titled “Google Data Analytics” both offered by Google is considered duplicate.
+- Duplicate values:
+  - Since we're looking at different courses offered by different institutions, both the course_title and organization columns can be combined to form a primary key. A course title alone cannot uniquely identify a course because many organizations can use the same title for their courses. However, the same course title offered by the same organization is considered duplicate in this case. For example, a course titled “Business Analytics” offered by the University of Pennsylvania is different another course with same title offered by University of Illinois at Urbana-Champaign. However, two courses titled “Google Data Analytics” both offered by Google is considered duplicate.
 - Removing columns that are irrelevant for analysis
   - Course description, Course URL, and course summary columns were removed.
 - Formatting values
